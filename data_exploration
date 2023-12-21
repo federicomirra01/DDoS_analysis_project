@@ -23,5 +23,5 @@ Time series plots for specific packet metrics can provide insights into attack p
 SYN flag analysis -> done
 Fwd and Bwd analysis -> to be done
 Window-size analysis -> to be done
-Inbound-attack analysis -> to be done
+Inbound-attack analysis -> done
 IAT analysis?
