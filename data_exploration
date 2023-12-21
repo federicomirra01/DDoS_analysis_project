@@ -21,7 +21,7 @@ Histograms or box plots can be used to visualize the distribution of packet metr
 Time series plots for specific packet metrics can provide insights into attack patterns.
 
 SYN flag analysis -> done
-Fwd and Bwd analysis -> to be done
+Fwd and Bwd analysis -> done
 Window-size analysis -> to be done
 Inbound-attack analysis -> done
 IAT analysis?
