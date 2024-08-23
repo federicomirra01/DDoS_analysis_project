@@ -4,7 +4,7 @@ Each row is referred to a flow (sequence of packets exchanged between a source a
 
 # Labels
 The provided dataset is classified in 12 labels. 11 related to DDoS attacks (e.g., `ddos_ldap`, `ddos_udp`, ...).
-The last one is `benign` and specifies that the labelled flow does not belong to any attack.
+The last one is `benign` and specifies that the labelled flow does not belong to any attack. 
 
 # Features Description
 
