@@ -1,5 +1,6 @@
 The provided dataset contains traffic traces collected during the execution of some of the most common DDoS attacks.
 
+
 Each row is referred to a flow (sequence of packets exchanged between a source and a destination IP).
 
 # Labels
